@@ -1,0 +1,5 @@
+/* styles.css */
+
+body, header, nav, footer, .problem h2, .problem button {
+    font-family: 'Montserrat', sans-serif; /* Montserrat 글꼴을 사용합니다. */
+}
